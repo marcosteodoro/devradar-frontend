@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Implementação do cliente frontend do projeto da 10ª semana OmniStack da RocketSeat 
 
 ## Available Scripts
 
